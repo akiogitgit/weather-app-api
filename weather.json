@@ -1,0 +1,323 @@
+{
+    "data": [
+      {
+        "coord": { "lon": 139.6917, "lat": 35.6895 },
+        "weather": [
+          {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 287.23,
+          "feels_like": 285.97,
+          "temp_min": 285.9,
+          "temp_max": 287.96,
+          "pressure": 1017,
+          "humidity": 49
+        },
+        "visibility": 10000,
+        "wind": { "speed": 8.23, "deg": 360 },
+        "clouds": { "all": 75 },
+        "dt": 1666670670,
+        "sys": {
+          "type": 2,
+          "id": 268105,
+          "country": "JP",
+          "sunrise": 1666644958,
+          "sunset": 1666684470
+        },
+        "timezone": 32400,
+        "id": 1850144,
+        "name": "Tokyo",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": 2.3488, "lat": 48.8534 },
+        "weather": [
+          {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 286.82,
+          "feels_like": 286.64,
+          "temp_min": 286.05,
+          "temp_max": 287.25,
+          "pressure": 1016,
+          "humidity": 92
+        },
+        "visibility": 10000,
+        "wind": { "speed": 3.09, "deg": 200 },
+        "clouds": { "all": 100 },
+        "dt": 1666671563,
+        "sys": {
+          "type": 2,
+          "id": 2012208,
+          "country": "FR",
+          "sunrise": 1666679156,
+          "sunset": 1666716191
+        },
+        "timezone": 7200,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": -118.2437, "lat": 34.0522 },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 290.79,
+          "feels_like": 289.76,
+          "temp_min": 288.95,
+          "temp_max": 292.64,
+          "pressure": 1021,
+          "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": { "speed": 4.63, "deg": 270 },
+        "clouds": { "all": 0 },
+        "dt": 1666671410,
+        "sys": {
+          "type": 1,
+          "id": 3694,
+          "country": "US",
+          "sunrise": 1666620328,
+          "sunset": 1666660113
+        },
+        "timezone": -25200,
+        "id": 5368361,
+        "name": "Los Angeles",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": -85.1647, "lat": 34.257 },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 287.83,
+          "feels_like": 287.31,
+          "temp_min": 284.42,
+          "temp_max": 290.38,
+          "pressure": 1012,
+          "humidity": 75
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.54, "deg": 300 },
+        "clouds": { "all": 0 },
+        "dt": 1666671501,
+        "sys": {
+          "type": 2,
+          "id": 2009938,
+          "country": "US",
+          "sunrise": 1666698851,
+          "sunset": 1666738499
+        },
+        "timezone": -14400,
+        "id": 4219762,
+        "name": "Rome",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": 126.9778, "lat": 37.5683 },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 288.89,
+          "feels_like": 287.54,
+          "temp_min": 287.84,
+          "temp_max": 288.91,
+          "pressure": 1028,
+          "humidity": 39
+        },
+        "visibility": 10000,
+        "wind": { "speed": 4.63, "deg": 90 },
+        "clouds": { "all": 0 },
+        "dt": 1666671478,
+        "sys": {
+          "type": 1,
+          "id": 8105,
+          "country": "KR",
+          "sunrise": 1666648155,
+          "sunset": 1666687375
+        },
+        "timezone": 32400,
+        "id": 1835848,
+        "name": "Seoul",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": -80, "lat": 9 },
+        "weather": [
+          {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 296.73,
+          "feels_like": 297.65,
+          "temp_min": 295.68,
+          "temp_max": 296.92,
+          "pressure": 1013,
+          "humidity": 96,
+          "sea_level": 1013,
+          "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.39, "deg": 224, "gust": 1.4 },
+        "clouds": { "all": 85 },
+        "dt": 1666671826,
+        "sys": {
+          "type": 2,
+          "id": 2075164,
+          "country": "PA",
+          "sunrise": 1666609692,
+          "sunset": 1666652393
+        },
+        "timezone": -18000,
+        "id": 3703430,
+        "name": "Panama",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": 12.5655, "lat": 55.6759 },
+        "weather": [
+          {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 285.29,
+          "feels_like": 284.99,
+          "temp_min": 284.76,
+          "temp_max": 285.91,
+          "pressure": 1008,
+          "humidity": 93
+        },
+        "visibility": 10000,
+        "wind": { "speed": 6.69, "deg": 220 },
+        "clouds": { "all": 75 },
+        "dt": 1666671876,
+        "sys": {
+          "type": 2,
+          "id": 2035645,
+          "country": "DK",
+          "sunrise": 1666677621,
+          "sunset": 1666712822
+        },
+        "timezone": 7200,
+        "id": 2618425,
+        "name": "Copenhagen",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": 7.4474, "lat": 46.9481 },
+        "weather": [
+          {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 283.1,
+          "feels_like": 281.28,
+          "temp_min": 281.62,
+          "temp_max": 285.26,
+          "pressure": 1022,
+          "humidity": 94
+        },
+        "visibility": 10000,
+        "wind": { "speed": 3.6, "deg": 120 },
+        "clouds": { "all": 40 },
+        "dt": 1666671779,
+        "sys": {
+          "type": 2,
+          "id": 19940,
+          "country": "CH",
+          "sunrise": 1666677720,
+          "sunset": 1666715180
+        },
+        "timezone": 7200,
+        "id": 2661552,
+        "name": "Bern",
+        "cod": 200
+      },
+      {
+        "coord": { "lon": 100.5167, "lat": 13.75 },
+        "weather": [
+          {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": 305.24,
+          "feels_like": 309.54,
+          "temp_min": 305.09,
+          "temp_max": 306.99,
+          "pressure": 1011,
+          "humidity": 57,
+          "sea_level": 1011,
+          "grnd_level": 1010
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.98, "deg": 46, "gust": 2.88 },
+        "clouds": { "all": 99 },
+        "dt": 1666672609,
+        "sys": {
+          "type": 2,
+          "id": 2032756,
+          "country": "TH",
+          "sunrise": 1666653020,
+          "sunset": 1666695211
+        },
+        "timezone": 25200,
+        "id": 1609350,
+        "name": "Bangkok",
+        "cod": 200
+      }
+    ]
+  }
